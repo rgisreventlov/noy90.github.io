@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
-title: noy90 testpage
+title: noy90 homepage
 description: this is test page
-color-scheme: dark
+logo: ./pic/icon.jpg
+color-scheme: auto
