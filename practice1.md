@@ -5,8 +5,6 @@
     </head>
     <body>
         <h1>ブロック崩し</h1>
-        <p>キーボード限定、方向キーで操作します。</p>
-        <p>gameover 又は　gameclear時、spaceキーで再度遊ぶことができます。</p>
         <div class="webgl">
             <iframe 
             loading="lazy" 
@@ -17,5 +15,14 @@
         </div>
     </body>
 </html>
-
 <!-- <iframe width="幅の数値" height="高さの数値" src="WebGLプレイヤーを公開しているURL" frameborder="0" allowfullscreen></iframe> -->
+
+- 操作方法
+
+  キーボード限定、方向キーで操作します。
+
+  gameover 又は　 gameclear 時、space キーで再度遊ぶことができます。
+
+- 参考にしたサイト
+
+  [https://hu-gsd.com/lecture/unity-block-1/](https://hu-gsd.com/lecture/unity-block-1/)
