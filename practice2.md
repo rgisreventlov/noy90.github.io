@@ -10,11 +10,11 @@
 
 <br/>
 
-- 参考にしているサイト
+- **参考にしているサイト**
 
   [https://unity.moon-bear.com/escape-from-small-room/](https://unity.moon-bear.com/escape-from-small-room/)
 
-- 更新
+- **更新**
 
   2022/6/23 　作成開始
 
