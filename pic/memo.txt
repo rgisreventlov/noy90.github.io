@@ -1,3 +1,6 @@
 #WebGL          500*281.25
 #unityフレーム  44px
 #WebGL          500*235
+
+#容量確認 10GBまで
+du -sh .git
