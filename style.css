@@ -1,13 +1,31 @@
-.webgl{
-width:100%;
-padding-bottom: 56.25%;
-height:0px;
-position: relative;
+/*----------------------------------------------------------------------------
+Unity-webgl
+----------------------------------------------------------------------------*/
+#unity-webgl{
+	width: 800px ;/*デフォルトの横幅*/
+	height: 600px ;/*デフォルトの縦幅*/
 }
-.webgl iframe{
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-height: 100%;
+@media screen and (max-width: 1240px){/*1240px以下*/
+	#unity-webgl{
+		width: 960px ;
+		height: 600px ;
+	}
+}
+@media screen and (max-width: 1023px){/*1023px以下*/
+	#unity-webgl{
+		width: 960px ;
+		height: 600px ;
+	}
+}
+@media screen and (max-width: 834px){/*834px以下*/
+	#unity-webgl{
+		width: 576px ;
+		height: 360px ;
+	}
+}
+@media screen and (max-width: 480px){/*480px以下*/
+	#unity-webgl{
+		width: 480px ;
+		height: 300px ;
+	}
 }

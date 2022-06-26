@@ -8,6 +8,14 @@
         <p>unity, WebGL公開のテストページです</p>
         <a href="./practice1/index.html">ブロック崩し</a>
         <!-- <iframe width="幅の数値" height="高さの数値" src="WebGLプレイヤーを公開しているURL" frameborder="0" allowfullscreen></iframe> -->
-        <div class="webgl"><iframe width="960" height="700" src="./practice1/index.html" frameborder="0" allowfullscreen></iframe></div>
+        <iframe 
+        id="unity-webgl" 
+        loading="lazy" 
+        width="960px" 
+        height="600px" 
+        src="./practice1/index.html" 
+        scrolling="no" 
+        frameborder="0" 
+        allowfullscreen></iframe>
     </body>
 </html>
