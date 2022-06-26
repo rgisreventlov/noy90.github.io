@@ -11,10 +11,7 @@
         <div class="webgl">
             <iframe 
             loading="lazy" 
-            width="960px" 
-            height="600px" 
             src="./practice1/index.html" 
-            scrolling="no" 
             frameborder="0" 
             allowfullscreen></iframe>
         </div>
