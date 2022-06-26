@@ -2,4 +2,4 @@
 
 unity, WebGL 公開のテストページです
 
-[practice1.md](ブロック崩し)
+[ブロック崩し](practice1.md)
