@@ -4,6 +4,9 @@ description: this is test page
 color-scheme: auto
 
 sidebar:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/BDHU
   - name: unity作品一覧
     icon: <script src="https://code.iconify.design/2/2.2.1/iconify.min.js"></script>
     link: https://noy90.github.io/#unity_game
