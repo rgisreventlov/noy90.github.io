@@ -7,7 +7,7 @@
         <p>unity, WebGL公開のテストページです</p>
         <dl>
             <!-- <iframe width="幅の数値" height="高さの数値" src="WebGLプレイヤーを公開しているURL" frameborder="0" allowfullscreen></iframe> -->
-            <iframe width="10%" height="10%" src="./practice1/index.html" frameborder="0" allowfullscreen></iframe>
+            <iframe width="100%" height="100%" src="./practice1/index.html" frameborder="0" allowfullscreen></iframe>
             <dt><a href="./practice1/index.html">ブロック崩し</a></dt>
         </dl>
     </body>
