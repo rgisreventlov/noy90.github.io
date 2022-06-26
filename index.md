@@ -10,7 +10,6 @@
         <!-- <iframe width="幅の数値" height="高さの数値" src="WebGLプレイヤーを公開しているURL" frameborder="0" allowfullscreen></iframe> -->
         <div class="webgl">
             <iframe 
-            id="unity-webgl" 
             loading="lazy" 
             width="960px" 
             height="600px" 

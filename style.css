@@ -13,7 +13,7 @@
 }
 @media screen and (min-width: 960px){/*960px以上*/
 	.webgl{
-        width:281.25px;
+        width: 500px;
         padding-bottom: 56.25%;
         height:0px;
         position: relative;
