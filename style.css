@@ -1,35 +1,3 @@
-/*----------------------------------------------------------------------------
-Unity-webgl
-----------------------------------------------------------------------------*/
-#unity-webgl{
-	width: 960px ;/*デフォルトの横幅*/
-	height: 600px ;/*デフォルトの縦幅*/
-}
-@media screen and (max-width: 1240px){/*1240px以下*/
-	#unity-webgl{
-		width: 500px ;
-		height: 285px ;
-	}
-}
-@media screen and (max-width: 1023px){/*1023px以下*/
-	#unity-webgl{
-		width: 500px ;
-		height: 285px ;
-	}
-}
-@media screen and (max-width: 834px){/*834px以下*/
-	#unity-webgl{
-		width: 480px ;
-		height: 360px ;
-	}
-}
-@media screen and (max-width: 480px){/*480px以下*/
-	#unity-webgl{
-		width: 400px ;
-		height: 300px ;
-	}
-}
-
 .webgl{
     width:100%;
     padding-bottom: 56.25%;
