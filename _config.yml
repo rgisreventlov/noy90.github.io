@@ -2,3 +2,7 @@ theme: jekyll-theme-minimal
 title: noy90 homepage
 description: this is test page
 color-scheme: auto
+
+sidebar:
+  - name: 作品一覧
+    link: ./index.md#unity_game
