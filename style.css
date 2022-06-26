@@ -7,25 +7,25 @@ Unity-webgl
 }
 @media screen and (max-width: 1240px){/*1240px以下*/
 	#unity-webgl{
-		width: 960px ;
-		height: 600px ;
+		width: 500px ;
+		height: 285px ;
 	}
 }
 @media screen and (max-width: 1023px){/*1023px以下*/
 	#unity-webgl{
-		width: 960px ;
-		height: 600px ;
+		width: 500px ;
+		height: 285px ;
 	}
 }
 @media screen and (max-width: 834px){/*834px以下*/
 	#unity-webgl{
-		width: 576px ;
+		width: 480px ;
 		height: 360px ;
 	}
 }
 @media screen and (max-width: 480px){/*480px以下*/
 	#unity-webgl{
-		width: 480px ;
+		width: 400px ;
 		height: 300px ;
 	}
 }
