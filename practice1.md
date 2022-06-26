@@ -18,13 +18,13 @@
 </html>
 <!-- <iframe width="幅の数値" height="高さの数値" src="WebGLプレイヤーを公開しているURL" frameborder="0" allowfullscreen></iframe> -->
 
+<br/>
+
 - 操作方法
 
   キーボード限定、方向キーで操作します。
 
   gameover 又は　 gameclear 時、space キーで再度遊ぶことができます。
-
-<br/>
 
 - 参考にしたサイト
 
