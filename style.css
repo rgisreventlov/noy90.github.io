@@ -2,7 +2,7 @@
 Unity-webgl
 ----------------------------------------------------------------------------*/
 #unity-webgl{
-	width: 800px ;/*デフォルトの横幅*/
+	width: 960px ;/*デフォルトの横幅*/
 	height: 600px ;/*デフォルトの縦幅*/
 }
 @media screen and (max-width: 1240px){/*1240px以下*/
@@ -28,4 +28,18 @@ Unity-webgl
 		width: 480px ;
 		height: 300px ;
 	}
+}
+
+.webgl{
+    width:100%;
+    padding-bottom: 56.25%;
+    height:0px;
+    position: relative;
+}
+.webgl iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
