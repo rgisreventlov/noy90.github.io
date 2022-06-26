@@ -14,12 +14,6 @@ http://negi-lab.blog.jp/EmbedWebGLAndLoadOnClick
 
 https://re-unknown.premirea.jp/article/webgl-responsive/
 
-## 注意
+#### テンプレート実装
 
-git config を local で設定している場合
-
-git clone をした後
-
-git config user.name " "
-
-git config user.email " "
+https://note.com/noabou/n/n54fc07a071e5
