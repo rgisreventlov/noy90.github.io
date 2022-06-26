@@ -4,11 +4,7 @@
 
 ![制作中1](./pic/practice2_1.png "制作中1")
 
-<br/>
-
 ![制作中2](./pic/practice2_2.png "制作中2")
-
-<br/>
 
 ![制作中3](./pic/practice2_3.png "制作中3")
 
