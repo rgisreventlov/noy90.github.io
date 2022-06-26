@@ -5,4 +5,5 @@ color-scheme: auto
 
 sidebar:
   - name: 作品一覧
-    link: ./index.md#unity_game
+    icon: <script src="https://code.iconify.design/2/2.2.1/iconify.min.js"></script>
+    link: ./index.md/#unity_game
