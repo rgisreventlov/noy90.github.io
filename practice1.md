@@ -1,10 +1,11 @@
+# ブロック崩し
+
 <html lang="ja">
     <head>
         <meta charset="utf8">
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
-        <h1>ブロック崩し</h1>
         <div class="webgl">
             <iframe 
             loading="lazy" 
