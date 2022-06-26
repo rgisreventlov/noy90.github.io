@@ -6,14 +6,6 @@
     <body>
         <h1>作品ページ</h1>
         <p>unity, WebGL公開のテストページです</p>
-        <a href="./practice1/index.html">ブロック崩し</a>
-        <!-- <iframe width="幅の数値" height="高さの数値" src="WebGLプレイヤーを公開しているURL" frameborder="0" allowfullscreen></iframe> -->
-        <div class="webgl">
-            <iframe 
-            loading="lazy" 
-            src="./practice1/index.html" 
-            frameborder="0" 
-            allowfullscreen></iframe>
-        </div>
+        <a href="./practice1.md">ブロック崩し</a>
     </body>
 </html>
