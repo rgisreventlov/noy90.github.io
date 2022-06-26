@@ -1,6 +1,7 @@
 <html lang="ja">
     <head>
-        <meta charset="utf8" />
+        <meta charset="utf8">
+        <link rel="stylesheet" href="style.css">
     </head>
     <body>
         <h1>作品ページ</h1>
