@@ -1,21 +1,13 @@
 # ブロック崩し
 
-<html lang="ja">
-    <head>
-        <meta charset="utf8">
-        <link rel="stylesheet" href="style.css">
-    </head>
-    <body>
-        <div class="webgl">
-            <iframe 
-            loading="lazy" 
-            src="./practice1/index.html"
-            scrolling="no"  
-            frameborder="0" 
-            allowfullscreen></iframe>
-        </div>
-    </body>
-</html>
+<div class="webgl">
+  <iframe 
+  loading="lazy" 
+  src="./practice1/index.html"
+  scrolling="no"  
+  frameborder="0" 
+  allowfullscreen></iframe>
+</div>
 <!-- <iframe width="幅の数値" height="高さの数値" src="WebGLプレイヤーを公開しているURL" frameborder="0" allowfullscreen></iframe> -->
 
 <br/>
